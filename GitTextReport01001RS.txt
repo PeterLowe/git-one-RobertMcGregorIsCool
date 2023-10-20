@@ -21,7 +21,8 @@ Updates the remote node with the current node – sends staged files/commits to 
 Branch allows the user to list created branches, make a new branch or delete branches. (Doesn’t switch to ‘em?)
  
 8.	Checkout 
-
+ 
+Checkout makes my node (El Hefe Bastardo) the current HEAD. Then I switched back to MASTER as all my work had disappeared (wrong branch).
 9. Merge 
 10. Log 
 11. Clone 
