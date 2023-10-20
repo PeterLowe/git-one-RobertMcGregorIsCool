@@ -1,5 +1,5 @@
 1.	Init
-The git init command initialises a local repository on my computer and allows me to work on it on my PC. After executing ‘init’, the repo will be in sub folder of where I ran the ‘init’ command. (hidden git folder)
+The git init command initialises a local repository on my computer and allows me to work on it on my PC. After executing ‘init’, the repo will be in sub folder of where I ran the ‘init’ command. (hidden git folder). You may need to enter the working dir with the CD command. I can’t seem to use the dir/w command, so it looks like I’ll have to relearn some stuff…! 
  
  
 2.	Add 
