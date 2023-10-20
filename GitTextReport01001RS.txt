@@ -1,0 +1,19 @@
+1.	Init
+The git init command initialises a local repository on my computer and allows me to work on it on my PC. After executing ‘init’, the repo will be in sub folder of where I ran the ‘init’ command. (hidden git folder)
+ 
+2.	Add 
+
+3. Status 
+Status indicates the current contents of the local repo and their current state (eg. Whether staged, dirty, etc).
+ 
+4. Commit 
+5. Remote 
+6. Push 
+7. Branch 
+8. Checkout 
+9. Merge 
+10. Log 
+11. Clone 
+12. Pull 
+13. Stash 
+14. Rm
