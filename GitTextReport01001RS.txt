@@ -23,8 +23,11 @@ Branch allows the user to list created branches, make a new branch or delete bra
 8.	Checkout 
  
 Checkout makes my node (El Hefe Bastardo) the current HEAD. Then I switched back to MASTER as all my work had disappeared (wrong branch).
-9. Merge 
-10. Log 
+9.	Merge
+Incorporates changes from El_Hefe_Bastardo into the current branch (Master). As El_Hefe_Bastardo has no major advances on Master, git reports that the Master branch is already up to date.
+  
+10.	Log 
+
 11. Clone 
 12. Pull 
 13. Stash 
