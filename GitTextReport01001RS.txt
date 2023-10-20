@@ -1,14 +1,22 @@
 1.	Init
 The git init command initialises a local repository on my computer and allows me to work on it on my PC. After executing ‘init’, the repo will be in sub folder of where I ran the ‘init’ command. (hidden git folder)
  
+ 
 2.	Add 
-
+The git add command can make files or whole directories staged for committing to repositories.
+ 
 3. Status 
 Status indicates the current contents of the local repo and their current state (eg. Whether staged, dirty, etc).
  
-4. Commit 
-5. Remote 
-6. Push 
+4.	Commit 
+Creates a new commit with files that have been staged. The new commit is the child of the head, I think.
+ 
+5.	Remote 
+Manages the repos associated with the project, allows you to see what you’re currently attached to (‘master’) – does a lot more stuff!
+ 
+6.	Push 
+Updates the remote node with the current node – sends staged files/commits to remote repo.
+ 
 7. Branch 
 8. Checkout 
 9. Merge 
