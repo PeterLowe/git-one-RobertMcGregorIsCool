@@ -1,35 +1,73 @@
-1.	Init
-The git init command initialises a local repository on my computer and allows me to work on it on my PC. After executing ‘init’, the repo will be in sub folder of where I ran the ‘init’ command. (hidden git folder). You may need to enter the working dir with the CD command. I can’t seem to use the dir/w command, so it looks like I’ll have to relearn some stuff…! 
+Init 
+
+The git init command initialises a local repository on my computer and allows me to work on it on my PC. After executing ‘init’, the repo will be in sub folder of where I ran the ‘init’ command. (hidden git folder). You may need to enter the working dir with the CD command. I can’t seem to use the dir/w command, so it looks like I’ll have to relearn some stuff…!  
+
  
+
  
-2.	Add 
-The git add command can make files or whole directories staged for committing to repositories.
+
+Add  
+
+The git add command can make files or whole directories staged for committing to repositories. 
+
  
-3. Status 
-Status indicates the current contents of the local repo and their current state (eg. Whether staged, dirty, etc).
+
+3. Status  
+
+Status indicates the current contents of the local repo and their current state (eg. Whether staged, dirty, etc). 
+
  
-4.	Commit 
-Creates a new commit with files that have been staged. The new commit is the child of the head, I think.
+
+Commit  
+
+Creates a new commit with files that have been staged. The new commit is the child of the head, I think. 
+
  
-5.	Remote 
-Manages the repos associated with the project, allows you to see what you’re currently attached to (‘master’) – does a lot more stuff!
+
+Remote  
+
+Manages the repos associated with the project, allows you to see what you’re currently attached to (‘master’) – does a lot more stuff! 
+
  
-6.	Push 
-Updates the remote node with the current node – sends staged files/commits to remote repo.
+
+Push  
+
+Updates the remote node with the current node – sends staged files/commits to remote repo. 
+
  
-7.	Branch
-Branch allows the user to list created branches, make a new branch or delete branches. (Doesn’t switch to ‘em?)
+
+Branch 
+
+Branch allows the user to list created branches, make a new branch or delete branches. (Doesn’t switch to ‘em?) 
+
  
-8.	Checkout 
+
+Checkout  
+
  
-Checkout makes my node (El Hefe Bastardo) the current HEAD. Then I switched back to MASTER as all my work had disappeared (wrong branch).
-9.	Merge
-Incorporates changes from El_Hefe_Bastardo into the current branch (Master). As El_Hefe_Bastardo has no major advances on Master, git reports that the Master branch is already up to date.
+
+Checkout makes my node (El Hefe Bastardo) the current HEAD. Then I switched back to MASTER as all my work had disappeared (wrong branch). 
+
+Merge 
+
+Incorporates changes from El_Hefe_Bastardo into the current branch (Master). As El_Hefe_Bastardo has no major advances on Master, git reports that the Master branch is already up to date. 
+
   
-10.	Log 
-Lists the commit logs , can be navigated with <space> and <q>.
+
+Log  
+
+Lists the commit logs , can be navigated with <space> and <q>. 
+
  
-11. Clone 
-12. Pull 
-13. Stash 
-14. Rm
+
+ 
+
+Have not done these as I’ve reached my 10/10! 
+
+11. Clone  
+
+12. Pull  
+
+13. Stash  
+
+14. Rm 
