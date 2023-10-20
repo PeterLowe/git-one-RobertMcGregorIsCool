@@ -27,7 +27,8 @@ Checkout makes my node (El Hefe Bastardo) the current HEAD. Then I switched back
 Incorporates changes from El_Hefe_Bastardo into the current branch (Master). As El_Hefe_Bastardo has no major advances on Master, git reports that the Master branch is already up to date.
   
 10.	Log 
-
+Lists the commit logs , can be navigated with <space> and <q>.
+ 
 11. Clone 
 12. Pull 
 13. Stash 
