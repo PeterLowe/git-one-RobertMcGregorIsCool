@@ -17,8 +17,11 @@ Manages the repos associated with the project, allows you to see what you’re c
 6.	Push 
 Updates the remote node with the current node – sends staged files/commits to remote repo.
  
-7. Branch 
-8. Checkout 
+7.	Branch
+Branch allows the user to list created branches, make a new branch or delete branches. (Doesn’t switch to ‘em?)
+ 
+8.	Checkout 
+
 9. Merge 
 10. Log 
 11. Clone 
